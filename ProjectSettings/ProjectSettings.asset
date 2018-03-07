@@ -599,11 +599,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Collab: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: f3ea8cb9-5ed3-4fc6-8795-906ef7d532c1
-  projectName: BasketBall
+  cloudProjectId: 39fc5e9f-5598-40ed-9818-5d619efd4a42
+  projectName: BasketBall (1)
   organizationId: endlessdreams
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
